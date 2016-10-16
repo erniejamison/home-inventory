@@ -52,3 +52,6 @@ gem 'rails_12factor', group: :production
 
 # Use Foundation for front-end framework
 gem 'foundation-rails'
+
+# Use sprockets
+gem 'sprockets', '~> 3.5', '>= 3.5.2'
