@@ -49,3 +49,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Use rails_12factor to speed up load times and show errors in Heroku
 gem 'rails_12factor', group: :production
+
+# Use Foundation for front-end framework
+gem 'foundation-rails'
